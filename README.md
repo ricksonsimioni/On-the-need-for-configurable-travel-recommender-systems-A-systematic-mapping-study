@@ -43,10 +43,9 @@ The list of all the papers retrieved from the queries is available for download 
     - **Inclusion criteria**
       1. Papers that propose TRSs with a certain degree of configuration.
       2. Peer-reviewed papers published in conferences and journals.
-      3. Well-ranked venues/publishers.
-      4. Works published within the last 10 years.
+      3. Works published within the last 10 years.
     - **Exlusion criteria**
       1. Papers that propose RS for other application domains.
       2. Papers not written in English.
       3. Short papers, posters, and tutorials (4-6 pages).
-      4. Out-of-scope papers.
+      4. Out-of-scope papers, e.g. surveys or empirical studies on TRS
